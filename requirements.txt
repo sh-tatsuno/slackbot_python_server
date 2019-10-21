@@ -12,4 +12,4 @@ six==1.10.0
 slackclient==1.0.9
 urllib3==1.22
 websocket-client==0.44.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
